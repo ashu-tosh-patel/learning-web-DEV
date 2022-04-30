@@ -1,0 +1,31 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    background-color: antiquewhite;
+    background-image: url("fog.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-image: linear-gradient(rgba(0,0,255,0.5), rgba(255, 255, 0, 0.5)); */
+}
+.topnav{
+    background-color: blue;
+}
+.topnav{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.topnav a:hover{
+    background-color: blue;
+    color: white;
+}
+.topnav a.active{
+    background-color: blueviolet;
+    color: white;
+}

@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+/* .para{
+    color: rgb(245, 245, 245);
+    background-color: blueviolet;
+} */
+div{
+    background-color: antiquewhite;
+}
+#red, h3{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    border: 2px solid black ;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
